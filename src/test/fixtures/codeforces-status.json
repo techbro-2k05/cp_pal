@@ -1,0 +1,31 @@
+{
+  "status": "OK",
+  "result": [
+    {
+      "id": 200000001,
+      "creationTimeSeconds": 1700000000,
+      "programmingLanguage": "C++17",
+      "verdict": "OK",
+      "problem": {
+        "contestId": 4,
+        "index": "A",
+        "name": "Watermelon",
+        "rating": 800,
+        "tags": ["brute force", "math"]
+      }
+    },
+    {
+      "id": 200000000,
+      "creationTimeSeconds": 1699990000,
+      "programmingLanguage": "C++17",
+      "verdict": "WRONG_ANSWER",
+      "problem": {
+        "contestId": 4,
+        "index": "A",
+        "name": "Watermelon",
+        "rating": 800,
+        "tags": ["brute force", "math"]
+      }
+    }
+  ]
+}
